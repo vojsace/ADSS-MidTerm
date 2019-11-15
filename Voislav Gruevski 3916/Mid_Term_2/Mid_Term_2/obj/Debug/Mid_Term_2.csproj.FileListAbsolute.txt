@@ -1,0 +1,6 @@
+C:\Users\Vojce\Desktop\Voislav Gruevski 3916\Mid_Term_2\Mid_Term_2\bin\Debug\Mid_Term_2.exe.config
+C:\Users\Vojce\Desktop\Voislav Gruevski 3916\Mid_Term_2\Mid_Term_2\bin\Debug\Mid_Term_2.exe
+C:\Users\Vojce\Desktop\Voislav Gruevski 3916\Mid_Term_2\Mid_Term_2\bin\Debug\Mid_Term_2.pdb
+C:\Users\Vojce\Desktop\Voislav Gruevski 3916\Mid_Term_2\Mid_Term_2\obj\Debug\Mid_Term_2.csprojAssemblyReference.cache
+C:\Users\Vojce\Desktop\Voislav Gruevski 3916\Mid_Term_2\Mid_Term_2\obj\Debug\Mid_Term_2.exe
+C:\Users\Vojce\Desktop\Voislav Gruevski 3916\Mid_Term_2\Mid_Term_2\obj\Debug\Mid_Term_2.pdb

@@ -1,0 +1,16 @@
+F:\vs2017\ADSS\Lecture5\bin\Debug\netcoreapp2.2\Lecture5.deps.json
+F:\vs2017\ADSS\Lecture5\bin\Debug\netcoreapp2.2\Lecture5.runtimeconfig.json
+F:\vs2017\ADSS\Lecture5\bin\Debug\netcoreapp2.2\Lecture5.runtimeconfig.dev.json
+F:\vs2017\ADSS\Lecture5\bin\Debug\netcoreapp2.2\Lecture5.dll
+F:\vs2017\ADSS\Lecture5\bin\Debug\netcoreapp2.2\Lecture5.pdb
+F:\vs2017\ADSS\Lecture5\obj\Debug\netcoreapp2.2\Lecture5.csprojAssemblyReference.cache
+F:\vs2017\ADSS\Lecture5\obj\Debug\netcoreapp2.2\Lecture5.csproj.CoreCompileInputs.cache
+F:\vs2017\ADSS\Lecture5\obj\Debug\netcoreapp2.2\Lecture5.AssemblyInfoInputs.cache
+F:\vs2017\ADSS\Lecture5\obj\Debug\netcoreapp2.2\Lecture5.AssemblyInfo.cs
+F:\vs2017\ADSS\Lecture5\obj\Debug\netcoreapp2.2\Lecture5.dll
+F:\vs2017\ADSS\Lecture5\obj\Debug\netcoreapp2.2\Lecture5.pdb
+C:\Users\Vojce\Desktop\FAX (V Semester)\Architecture and Design of Software Systems\Lecture5\Lecture5\obj\Debug\netcoreapp2.2\Lecture5.csprojAssemblyReference.cache
+C:\Users\Vojce\Desktop\FAX (V Semester)\Architecture and Design of Software Systems\Lecture5\Lecture5\obj\Debug\netcoreapp2.2\Lecture5.AssemblyInfoInputs.cache
+C:\Users\Vojce\Desktop\FAX (V Semester)\Architecture and Design of Software Systems\Lecture5\Lecture5\obj\Debug\netcoreapp2.2\Lecture5.AssemblyInfo.cs
+C:\Users\Vojce\Desktop\FAX (V Semester)\Architecture and Design of Software Systems\Lecture5\Lecture5\obj\Debug\netcoreapp2.2\Lecture5.dll
+C:\Users\Vojce\Desktop\FAX (V Semester)\Architecture and Design of Software Systems\Lecture5\Lecture5\obj\Debug\netcoreapp2.2\Lecture5.pdb
